@@ -10,9 +10,9 @@ Copy the contents of the vehicles.lua and paste it above  "--Compacts" in your q
 All the vehicles are labeled by brand for easy finding and editing.
 
 
-# You will need to add some code in your qb-vehicleshop/config.lua</br>
+# You will need to the categories in your qb-vehicleshop/config.lua</br>
 
-These file go here for example.</br>
+These go here for example.</br>
 ```
  ['Job'] = 'none', -- Name of job or none
         ['ShopLabel'] = 'Luxury Vehicle Shop',
@@ -30,8 +30,7 @@ These file go here for example.</br>
             ['maserati'] = 'Maserati',
             ['mclaren'] = 'MCLAREN',
             ['porsche'] = 'Porsche',
-            ['rollsroyce'] = 'Rolls Royce',
-            ['custom'] = 'Custom'
+            ['rollsroyce'] = 'Rolls Royce'
         },
         ['TestDriveTimeLimit'] = 0.5,
 ```
@@ -72,5 +71,6 @@ luxury categories </br>
             ['maserati'] = 'Maserati',
             ['mclaren'] = 'MCLAREN',
             ['porsche'] = 'Porsche',
-            ['rollsroyce'] = 'Rolls Royce',        
+            ['rollsroyce'] = 'Rolls Royce'        
 ```
+Remember in these tables, every brand should have a comma (,) at the end except for the last one!
