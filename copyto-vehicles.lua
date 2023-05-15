@@ -1150,18 +1150,458 @@
         ['hash'] = 'v250',
         ['shop'] = 'pdm'
     },
-    
-
-    -- WORK IN PROGRESS
     -- MITSUBISHI
+    ['cp9a'] = {
+        ['name'] = 'Mitsubishi Lancer Evo VI T.M.E (CP9A)',
+        ['brand'] = 'Mitsubishi',
+        ['model'] = 'cp9a',
+        ['price'] = 19000,
+        ['category'] = 'mitsubishi',
+        ['categoryLabel'] = 'Mitsubishi',
+        ['hash'] = 'cp9a',
+        ['shop'] = 'pdm'
+    },
+    ['fto'] = {
+        ['name'] = 'Mitsubishi FTO GP Version-R',
+        ['brand'] = 'Mitsubishi',
+        ['model'] = 'fto',
+        ['price'] = 11118,
+        ['category'] = 'mitsubishi',
+        ['categoryLabel'] = 'Mitsubishi',
+        ['hash'] = 'fto',
+        ['shop'] = 'pdm'
+    },
     -- NISSAN
+    ['180sx'] = {
+        ['name'] = 'Nissan 180SX Type-X',
+        ['brand'] = 'Nissan',
+        ['model'] = '180sx',
+        ['price'] = 4184,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `180sx`,
+        ['shop'] = 'pdm'
+    },
+    ['gtr'] = {
+        ['name'] = '2017 Nissan GTR',
+        ['brand'] = 'Nissan',
+        ['model'] = 'gtr',
+        ['price'] = 111600,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `gtr`,
+        ['shop'] = 'pdm'
+    },
+    ['gtrc'] = {
+        ['name'] = '2017 R35 Nissan GTR Convertible',
+        ['brand'] = 'Nissan',
+        ['model'] = 'gtrc',
+        ['price'] = 141146,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `gtrc`,
+        ['shop'] = 'pdm'
+    },
+    ['maj350'] = {
+        ['name'] = 'Nissan Fairlady Z Z33',
+        ['brand'] = 'Nissan',
+        ['model'] = 'maj350',
+        ['price'] = 17764,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `maj350`,
+        ['shop'] = 'pdm'
+    },
+    ['nis15'] = {
+        ['name'] = 'Nissan Silvia S15 Spec-R',
+        ['brand'] = 'Nissan',
+        ['model'] = 'nis15',
+        ['price'] = 22563,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `nis15`,
+        ['shop'] = 'pdm'
+    },
+    ['nissantitan17'] = {
+        ['name'] = '2017 Nissan Titan Warrior',
+        ['brand'] = 'Nissan',
+        ['model'] = 'nissantitan17',
+        ['price'] = 44800,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `nissantitan17`,
+        ['shop'] = 'pdm'
+    },
+    ['ns350'] = {
+        ['name'] = 'Nissan 350z Stardast',
+        ['brand'] = 'Nissan',
+        ['model'] = 'ns350',
+        ['price'] = 4,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `ns350`,
+        ['shop'] = 'pdm'
+    },
+    ['nzp'] = {
+        ['name'] = 'Nissan 370z "Pandem"',
+        ['brand'] = 'Nissan',
+        ['model'] = 'nzp',
+        ['price'] = 30985,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `nzp`,
+        ['shop'] = 'pdm'
+    },
+    ['s14'] = {
+        ['name'] = '1998 Nissan Silvia K',
+        ['brand'] = 'Nissan',
+        ['model'] = 's14',
+        ['price'] = 17165,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `s14`,
+        ['shop'] = 'pdm'
+    },
+    ['Safari97'] = {
+        ['name'] = '1997 Nissan Patrol Super Safari Y60',
+        ['brand'] = 'Nissan',
+        ['model'] = 'Safari97',
+        ['price'] = 17372,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `Safari97`,
+        ['shop'] = 'pdm'
+    },
+    ['skyline'] = {
+        ['name'] = 'Nissan Skyline GT-R (BNR34)',
+        ['brand'] = 'Nissan',
+        ['model'] = 'skyline',
+        ['price'] = 70000,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `skyline`,
+        ['shop'] = 'pdm'
+    },
+    ['z32'] = {
+        ['name'] = 'Nissan 300ZX Z32',
+        ['brand'] = 'Nissan',
+        ['model'] = 'z32',
+        ['price'] = 48905,
+        ['category'] = 'nissan',
+        ['categoryLabel'] = 'Nissan',
+        ['hash'] = `z32`,
+        ['shop'] = 'pdm'
+    },
     -- PORSCHE
+    ['maj935'] = {
+        ['name'] = '1978 Porsche 935 Moby Dick',
+        ['brand'] = 'Porsche',
+        ['model'] = 'maj935',
+        ['price'] = 28270,
+        ['category'] = 'porsche',
+        ['categoryLabel'] = 'Porsche',
+        ['hash'] = `maj935`,
+        ['shop'] = 'luxury'
+    },
+    ['pcs18'] = {
+        ['name'] = '2018 Porsche Cayenne S',
+        ['brand'] = 'Porsche',
+        ['model'] = 'pcs18',
+        ['price'] = 78100,
+        ['category'] = 'porsche',
+        ['categoryLabel'] = 'Porsche',
+        ['hash'] = `pcs18`,
+        ['shop'] = 'luxury'
+    },
+    ['718caymans'] = {
+        ['name'] = 'Porsche 718 Cayman S',
+        ['brand'] = 'Porsche',
+        ['model'] = '718caymans',
+        ['price'] = 90700,
+        ['category'] = 'porsche',
+        ['categoryLabel'] = 'Porsche',
+        ['hash'] = `718caymans`,
+        ['shop'] = 'luxury'
+    },
+    ['cgt'] = {
+        ['name'] = '2003 Porsche Carrera GT (980)',
+        ['brand'] = 'Porsche',
+        ['model'] = 'cgt',
+        ['price'] = 1650000,
+        ['category'] = 'porsche',
+        ['categoryLabel'] = 'Porsche',
+        ['hash'] = `cgt`,
+        ['shop'] = 'luxury'
+    },
+    ['pm19'] = {
+        ['name'] = '2019 Porsche Macan Turbo',
+        ['brand'] = 'Porsche',
+        ['model'] = 'pm19',
+        ['price'] = 50950,
+        ['category'] = 'porsche',
+        ['categoryLabel'] = 'Porsche',
+        ['hash'] = `pm19`,
+        ['shop'] = 'luxury'
+    },
+    ['taycan'] = {
+        ['name'] = '2020 Porsche Taycan Turbo S',
+        ['brand'] = 'Porsche',
+        ['model'] = 'taycan',
+        ['price'] = 213900,
+        ['category'] = 'porsche',
+        ['categoryLabel'] = 'Porsche',
+        ['hash'] = `taycan`,
+        ['shop'] = 'luxury'
+    }
     -- RANGEROVER
+    ['rrevoque'] = {
+        ['name'] = 'Range Rover Evoque',
+        ['brand'] = 'Range Rover',
+        ['model'] = 'rrevoque',
+        ['price'] = 56900,
+        ['category'] = 'rangerover',
+        ['categoryLabel'] = 'Range Rover',
+        ['hash'] = `rrevoque`,
+        ['shop'] = 'pdm'
+    },
+    ['rrst'] = {
+        ['name'] = 'Range Rover Vogue Startech',
+        ['brand'] = 'Range Rover',
+        ['model'] = 'rrst',
+        ['price'] = 44955,
+        ['category'] = 'rangerover',
+        ['categoryLabel'] = 'Range Rover',
+        ['hash'] = `rrst`,
+        ['shop'] = 'pdm'
+    },
+    ['rsvr16'] = {
+        ['name'] = '2016 Range Rover Sport SVR',
+        ['brand'] = 'Range Rover',
+        ['model'] = 'rsvr16',
+        ['price'] = 58922,
+        ['category'] = 'rangerover',
+        ['categoryLabel'] = 'Range Rover',
+        ['hash'] = `rsvr16`,
+        ['shop'] = 'pdm'
+    },
     -- ROLLSROYCE
+    ['dawnonyx'] = {
+        ['name'] = '2016 Rolls-Royce Dawn Onyx',
+        ['brand'] = 'Rolls Royce',
+        ['model'] = 'dawnonyx',
+        ['price'] = 378000,
+        ['category'] = 'rollsroyce',
+        ['categoryLabel'] = 'Rolls Royce',
+        ['hash'] = `dawnonyx`,
+        ['shop'] = 'luxury'
+    },
+    
+    ['wraith'] = {
+        ['name'] = 'Rolls-Royce Wraith',
+        ['brand'] = 'Rolls Royce',
+        ['model'] = 'wraith',
+        ['price'] = 344500,
+        ['category'] = 'rollsroyce',
+        ['categoryLabel'] = 'Rolls Royce',
+        ['hash'] = `wraith`,
+        ['shop'] = 'luxury'
+    },
+    
+    ['rculi'] = {
+        ['name'] = 'Rolls Royce Cullinan',
+        ['brand'] = 'Rolls Royce',
+        ['model'] = 'rculi',
+        ['price'] = 355000,
+        ['category'] = 'rollsroyce',
+        ['categoryLabel'] = 'Rolls Royce',
+        ['hash'] = `rculi`,
+        ['shop'] = 'luxury'
+    },
+    
+    ['rrphantom'] = {
+        ['name'] = '2018 Rolls-Royce Phantom VIII',
+        ['brand'] = 'Rolls Royce',
+        ['model'] = 'rrphantom',
+        ['price'] = 420000,
+        ['category'] = 'rollsroyce',
+        ['categoryLabel'] = 'Rolls Royce',
+        ['hash'] = `rrphantom`,
+        ['shop'] = 'luxury'
+    },
     -- SUBARU
+    ['subisti08'] = {
+        ['name'] = '2008 Subaru WRX STi',
+        ['brand'] = 'Subaru',
+        ['model'] = 'subisti08',
+        ['price'] = 44995,
+        ['category'] = 'subaru',
+        ['categoryLabel'] = 'Subaru',
+        ['hash'] = 'subisti08',
+        ['shop'] = 'pdm'
+    },
+    ['subwrx'] = {
+        ['name'] = '2004 Subaru Impreza WRX STI',
+        ['brand'] = 'Subaru',
+        ['model'] = 'subwrx',
+        ['price'] = 31120,
+        ['category'] = 'subaru',
+        ['categoryLabel'] = 'Subaru',
+        ['hash'] = 'subwrx',
+        ['shop'] = 'pdm'
+    },
+    ['svx'] = {
+        ['name'] = '1996 Subaru Alcyone SVX',
+        ['brand'] = 'Subaru',
+        ['model'] = 'svx',
+        ['price'] = 11500,
+        ['category'] = 'subaru',
+        ['categoryLabel'] = 'Subaru',
+        ['hash'] = 'svx',
+        ['shop'] = 'pdm'
+    },
     -- SUZUKI
+    ['gsxr19'] = {
+        ['name'] = '2019 Suzuki GSX-R1000R',
+        ['brand'] = 'Suzuki',
+        ['model'] = 'gsxr19',
+        ['price'] = 17499,
+        ['category'] = 'suzuki',
+        ['categoryLabel'] = 'Suzuki',
+        ['hash'] = 'gsxr19',
+        ['shop'] = 'pdm'
+    },
+    ['katana'] = {
+        ['name'] = '2019 Suzuki Katana',
+        ['brand'] = 'Suzuki',
+        ['model'] = 'katana',
+        ['price'] = 13500,
+        ['category'] = 'suzuki',
+        ['categoryLabel'] = 'Suzuki',
+        ['hash'] = 'katana',
+        ['shop'] = 'pdm'
+    },    
     -- TESLA
+    ['tr22'] = {
+        ['name'] = '2020 Tesla Roadster',
+        ['brand'] = 'Tesla',
+        ['model'] = 'tr22',
+        ['price'] = 200000,
+        ['category'] = 'tesla',
+        ['categoryLabel'] = 'Tesla',
+        ['hash'] = `tr22`,
+        ['shop'] = 'pdm'
+    },
+    ['p90d'] = {
+        ['name'] = 'Tesla Model X P90D',
+        ['brand'] = 'Tesla',
+        ['model'] = 'p90d',
+        ['price'] = 133700,
+        ['category'] = 'tesla',
+        ['categoryLabel'] = 'Tesla',
+        ['hash'] = `p90d`,
+        ['shop'] = 'pdm'
+    },
+    ['models'] = {
+        ['name'] = '2016 Tesla Model S P90D',
+        ['brand'] = 'Tesla',
+        ['model'] = 'models',
+        ['price'] = 109500,
+        ['category'] = 'tesla',
+        ['categoryLabel'] = 'Tesla',
+        ['hash'] = `models`,
+        ['shop'] = 'pdm'
+    },
+    ['tmodel'] = {
+        ['name'] = '2018 Tesla Model 3',
+        ['brand'] = 'Tesla',
+        ['model'] = 'tmodel',
+        ['price'] = 38700,
+        ['category'] = 'tesla',
+        ['categoryLabel'] = 'Tesla',
+        ['hash'] = `tmodel`,
+        ['shop'] = 'pdm'
+    },
+    ['teslax'] = {
+        ['name'] = '2016 Tesla Model X P90D',
+        ['brand'] = 'Tesla',
+        ['model'] = 'teslax',
+        ['price'] = 10000,
+        ['category'] = 'tesla',
+        ['categoryLabel'] = 'Tesla',
+        ['hash'] = `teslax`,
+        ['shop'] = 'pdm'
+    },
+    ['teslapd'] = {
+        ['name'] = '2017 Tesla Model S Prior design',
+        ['brand'] = 'Tesla',
+        ['model'] = 'teslapd',
+        ['price'] = 116700,
+        ['category'] = 'tesla',
+        ['categoryLabel'] = 'Tesla',
+        ['hash'] = `teslapd`,
+        ['shop'] = 'pdm'
+    },
     -- TOYOTA
+    ['cam8tun'] = {
+        ['name'] = '2018 Toyota Camry XSE',
+        ['brand'] = 'Toyota',
+        ['model'] = 'cam8tun',
+        ['price'] = 25990,
+        ['category'] = 'toyota',
+        ['categoryLabel'] = 'Toyota',
+        ['hash'] = `cam8tun`,
+        ['shop'] = 'pdm'
+    },
+    ['vxr'] = {
+        ['name'] = '2016 Toyota Land Cruiser VXR',
+        ['brand'] = 'Toyota',
+        ['model'] = 'vxr',
+        ['price'] = 85000,
+        ['category'] = 'toyota',
+        ['categoryLabel'] = 'Toyota',
+        ['hash'] = `vxr`,
+        ['shop'] = 'pdm'
+    },
+    ['toysupmk4'] = {
+        ['name'] = '1998 Toyota Supra Turbo (A80)',
+        ['brand'] = 'Toyota',
+        ['model'] = 'toysupmk4',
+        ['price'] = 187000,
+        ['category'] = 'toyota',
+        ['categoryLabel'] = 'Toyota',
+        ['hash'] = `toysupmk4`,
+        ['shop'] = 'pdm'
+    },
+    ['mk2100'] = {
+        ['name'] = 'Toyota Mark II JZX100',
+        ['brand'] = 'Toyota',
+        ['model'] = 'mk2100',
+        ['price'] = 36552,
+        ['category'] = 'toyota',
+        ['categoryLabel'] = 'Toyota',
+        ['hash'] = `mk2100`,
+        ['shop'] = 'pdm'
+    },    
     -- VOLKSWAGEN
+    ['golfgti7'] = {
+        ['name'] = '2015 Volkswagen Golf GTI MK7',
+        ['brand'] = 'Volkswagen',
+        ['model'] = 'golfgti7',
+        ['price'] = 21153,
+        ['category'] = 'volkswagen',
+        ['categoryLabel'] = 'Volkswagen',
+        ['hash'] = `golfgti7`,
+        ['shop'] = 'pdm'
+    },
     -- VOLVO
+    ['xc90'] = {
+        ['name'] = 'Volvo XC90 T8',
+        ['brand'] = 'Volvo',
+        ['model'] = 'xc90',
+        ['price'] = 57095,
+        ['category'] = 'volvo',
+        ['categoryLabel'] = 'Volvo',
+        ['hash'] = `xc90`,
+        ['shop'] = 'pdm'
+    },
     -- #END OF PLOKS FOR QB##--
