@@ -57,7 +57,7 @@ pdm categories </br>
             ['suzuki'] = 'Suzuki',
             ['tesla'] = 'Tesla',
             ['toyota'] = 'Toyota',
-            ['volkswagen'] = 'Volkswagen'
+            ['volkswagen'] = 'Volkswagen',
             ['volvo'] = 'Volvo'
 ```                
 luxury categories </br>
