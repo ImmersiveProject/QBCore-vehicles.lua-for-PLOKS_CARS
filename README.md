@@ -1,7 +1,7 @@
 # QBCore vehicles.lua-for-PLOKS_CARS
 This is the code you need in order to have PLOKS_CARS made available at vehicle shops in your city.
 
-All cars have beem organized by brand name and sorted into vehicle shops. Higher end cars are available at Luxury shop all others at PDM.
+All cars have been organized by brand name and sorted into vehicle shops. Higher end cars are available at Luxury shop all others at PDM.
 Cars prices were searched on Google for average pricing, please change the prices if you don't like them.
 
 
