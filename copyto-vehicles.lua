@@ -7,7 +7,7 @@
         ['category'] = 'acura',
         ['categoryLabel'] = 'Acura',
         ['hash'] = `tltypes`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Aston Martin
     ['amdbx'] = {
@@ -18,7 +18,7 @@
         ['category'] = 'am',
         ['categoryLabel'] = 'Aston Martin',
         ['hash'] = `amdbx`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['ast'] = {
         ['name'] = '2013 Vanquish',
@@ -28,7 +28,7 @@
         ['category'] = 'am',
         ['categoryLabel'] = 'Aston Martin',
         ['hash'] = `ast`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- Audi
     ['80B4'] = {
@@ -39,7 +39,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = '80B4',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['audquattros'] = {
         ['name'] = '1983 Quattro Sport',
@@ -49,7 +49,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'audquattros',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['aaq4'] = {
         ['name'] = '2017 A4 Quattro ABT',
@@ -59,7 +59,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'aaq4',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['q820'] = {
         ['name'] = '2020 Q8 50TDI',
@@ -69,7 +69,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'q820',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['r8ppi'] = {
         ['name'] = '2013 R8 V10',
@@ -79,7 +79,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'r8ppi',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['r820'] = {
         ['name'] = '2020 R8',
@@ -89,7 +89,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'r820',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['rs6'] = {
         ['name'] = '2016 RS6 C7',
@@ -99,7 +99,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'rs6',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['rs72020'] = {
         ['name'] = '2020 RS7',
@@ -109,7 +109,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'rs72020',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['s8d2'] = {
         ['name'] = '1998 S8 (D2/PFL)',
@@ -119,7 +119,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 's8d2',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['sq72016'] = {
         ['name'] = '2016 SQ7',
@@ -129,7 +129,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'sq72016',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['ttrs'] = {
         ['name'] = '2010 TT RS',
@@ -139,7 +139,7 @@
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
         ['hash'] = 'ttrs',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Bentley
     ['bbentayga'] = {
@@ -150,7 +150,7 @@
         ['category'] = 'bentley',
         ['categoryLabel'] = 'Bentley',
         ['hash'] = 'bbentayga',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['cgts'] = {
         ['name'] = '2020 Bentley Continental GT Convertible',
@@ -160,7 +160,7 @@
         ['category'] = 'bentley',
         ['categoryLabel'] = 'Bentley',
         ['hash'] = 'cgts',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- BMW
     ['760li04'] = {
@@ -171,7 +171,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = '760li04',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['e34'] = {
         ['name'] = '1995 BMW M5 E34',
@@ -181,7 +181,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'e34',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['m2'] = {
         ['name'] = '2016 BMW M2',
@@ -191,7 +191,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'm2',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['m3e36'] = {
         ['name'] = '1997 BMW M3 E36',
@@ -201,7 +201,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'm3e36',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['m3e92'] = {
         ['name'] = '2008 BMW M3 e92',
@@ -211,7 +211,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'm3e92',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['m3f80'] = {
         ['name'] = '2015 BMW M3 (F80)',
@@ -221,7 +221,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'm3f80',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['m4f82'] = {
         ['name'] = '2015 BMW M4 F82',
@@ -231,7 +231,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'm4f82',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['m6f13'] = {
         ['name'] = 'BMW M6 F13 Shadow Line',
@@ -241,7 +241,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'm6f13',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['z419'] = {
         ['name'] = '2019 BMW Z4 M40i',
@@ -251,7 +251,7 @@
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
         ['hash'] = 'z419',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Bugatti
     ['bolide'] = {
@@ -262,7 +262,7 @@
         ['category'] = 'bugatti',
         ['categoryLabel'] = 'Bugatti',
         ['hash'] = 'z4bolide19',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- Cadillac
     ['cats'] = {
@@ -273,7 +273,7 @@
         ['category'] = 'cadillac',
         ['categoryLabel'] = 'Cadillac',
         ['hash'] = 'cats',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['cesc21'] = {
         ['name'] = '2021 Cadillac Escalade',
@@ -283,7 +283,7 @@
         ['category'] = 'cadillac',
         ['categoryLabel'] = 'Cadillac',
         ['hash'] = 'cesc21',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Chevrolet
     ['09tahoe'] = {
@@ -294,7 +294,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = '09tahoe',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['15tahoe'] = {
         ['name'] = '2015 Chevrolet Tahoe',
@@ -304,7 +304,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = '15tahoe',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['2020ss'] = {
         ['name'] = '2020 Chevrolet Camaro SS',
@@ -314,7 +314,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = '2020ss',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['camrs17'] = {
         ['name'] = '2017 Chevrolet Camaro RS',
@@ -324,7 +324,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = 'camrs17',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['tahoe21'] = {
         ['name'] = '2021 Chevrolet Tahoe RST',
@@ -334,7 +334,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = 'tahoe21',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['corvettec5z06'] = {
         ['name'] = 'Chevrolet Corvette C5 Z06',
@@ -344,7 +344,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = 'corvettec5z06',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['czr1'] = {
         ['name'] = '2009 Chevrolet Corvette ZR1',
@@ -354,7 +354,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = 'czr1',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['c7'] = {
         ['name'] = '2014 Chevrolet Corvette C7 Stingray',
@@ -364,7 +364,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = 'c7',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['stingray'] = {
         ['name'] = '2020 Chevrolet Corvette C8 Stingray',
@@ -374,7 +374,7 @@
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
         ['hash'] = 'stingray',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['16charger'] = {
         ['name'] = '2016 Dodge Charger',
@@ -384,7 +384,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = '16charger',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },    
     ['99viper'] = {
         ['name'] = '1999 Dodge Viper GTS ACR',
@@ -394,7 +394,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = '99viper',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['chr20'] = {
         ['name'] = 'Dodge Charger Hellcat Widebody 2021',
@@ -404,7 +404,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = 'chr20',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },    
     ['demon'] = {
         ['name'] = '2018 Dodge Challenger SRT Demon',
@@ -414,7 +414,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = 'demon',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },    
     ['raid'] = {
         ['name'] = 'Dodge Challenger Raid',
@@ -424,7 +424,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = 'raid',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },    
     ['ram2500'] = {
         ['name'] = '2015 Dodge RAM 2500',
@@ -434,7 +434,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = 'ram2500',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['srt4'] = {
         ['name'] = 'Dodge Neon SRT-4',
@@ -444,7 +444,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = 'srt4',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['trx'] = {
         ['name'] = '1500 TRX',
@@ -454,7 +454,7 @@
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
         ['hash'] = `trx`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['16challenger'] = {
         ['name'] = '2016 Dodge Charger',
@@ -464,7 +464,7 @@
         ['category'] = 'custom',
         ['categoryLabel'] = 'Custom',
         ['hash'] = `16challenger`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Ferrari
     ['488'] = {
@@ -475,7 +475,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = '488',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['f430s'] = {
         ['name'] = 'Ferrari F430 Scuderia',
@@ -485,7 +485,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'f430s',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['f812'] = {
         ['name'] = '2018 Ferrari 812 Superfast',
@@ -495,7 +495,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'f812',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['fct'] = {
         ['name'] = '2015 Ferrari California T',
@@ -505,7 +505,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'fct',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['fxxk'] = {
         ['name'] = 'Ferrari FXX-K Hybrid Hypercar',
@@ -515,7 +515,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'fxxk',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['laferrari'] = {
         ['name'] = '2015 Ferrari LaFerrari',
@@ -525,7 +525,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'laferrari',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },    
     ['mig'] = {
         ['name'] = 'Ferrari Enzo',
@@ -535,7 +535,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'mig',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['yFe458i1'] = {
         ['name'] = '458 Italia',
@@ -545,7 +545,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'yFe458i1',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['yFe458i2'] = {
         ['name'] = '458 Speciale',
@@ -555,7 +555,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'yFe458i2',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['yFe458s1'] = {
         ['name'] = '458 Spider',
@@ -565,7 +565,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'yFe458s1',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['yFe458s2'] = {
         ['name'] = '458 Speciale Aperta',
@@ -575,7 +575,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'yFe458s2',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['yFeF12A'] = {
         ['name'] = 'Ferrari F60 America',
@@ -585,7 +585,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'yFeF12A',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['yFeF12T'] = {
         ['name'] = 'Ferrari F12 TRS Roadster',
@@ -595,7 +595,7 @@
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
         ['hash'] = 'yFeF12T',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- Ford
     ['f15078'] = {
@@ -606,7 +606,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'f15078',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['f150'] = {
         ['name'] = '2012 Ford F150 SVT Raptor R',
@@ -616,7 +616,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'f150',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['fgt'] = {
         ['name'] = '2005 Ford GT',
@@ -626,7 +626,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'fgt',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['gt17'] = {
         ['name'] = '2017 Ford GT',
@@ -636,7 +636,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'gt17',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['mustang50th'] = {
         ['name'] = '2015 Ford Mustang GT 50 Years Special Edition',
@@ -646,7 +646,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'mustang50th',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['raptor2017'] = {
         ['name'] = '2017 Ford Raptor',
@@ -656,7 +656,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'raptor2017',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['wildtrak'] = {
         ['name'] = '2021 Ford Bronco Wildtrak',
@@ -666,7 +666,7 @@
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
         ['hash'] = 'wildtrak',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Honda   
     ['honcrx91'] = {
@@ -677,7 +677,7 @@
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
         ['hash'] = 'honcrx91',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['na1'] = {
         ['name'] = '1992 Honda NSX-R (NA1)',
@@ -687,7 +687,7 @@
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
         ['hash'] = 'na1',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['ap2'] = {
         ['name'] = 'Honda S2000 AP2',
@@ -697,7 +697,7 @@
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
         ['hash'] = 'ap2',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['dragekcivick'] = {
         ['name'] = '1997 Honda Civic Sedan Drag Version',
@@ -707,7 +707,7 @@
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
         ['hash'] = 'dragekcivick',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['fk8'] = {
         ['name'] = '2018 Honda Civic Type-R (FK8)',
@@ -717,7 +717,7 @@
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
         ['hash'] = 'fk8',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Jaguar 
     ['fpacehm'] = {
@@ -728,7 +728,7 @@
         ['category'] = 'jaguar',
         ['categoryLabel'] = 'Jaguar',
         ['hash'] = 'fpacehm',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- Jeep
     ['jeep2012'] = {
@@ -739,7 +739,7 @@
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
         ['hash'] = 'jeep2012',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['jeepreneg'] = {
         ['name'] = 'Jeep Renegade',
@@ -749,7 +749,7 @@
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
         ['hash'] = 'jeepreneg',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['srt8'] = {
         ['name'] = '2015 Jeep SRT-8',
@@ -759,7 +759,7 @@
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
         ['hash'] = 'srt8',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['trhawk'] = {
         ['name'] = '2018 Jeep Grand Cherokee Trackhawk Series IV',
@@ -769,7 +769,7 @@
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
         ['hash'] = 'trhawk',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- Koenigsegg
     ['agerars'] = {
@@ -780,7 +780,7 @@
         ['category'] = 'koenigsegg',
         ['categoryLabel'] = 'Koenigsegg',
         ['hash'] = 'agerars',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['regera'] = {
         ['name'] = 'Koenigsegg Regera',
@@ -790,7 +790,7 @@
         ['category'] = 'koenigsegg',
         ['categoryLabel'] = 'Koenigsegg',
         ['hash'] = 'regera',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
 	-- LAMBORGHINI
     ['huracanst'] = {
@@ -801,7 +801,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'huracanst',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['lambose'] = {
         ['name'] = 'Lamborghini Sesto Elemento',
@@ -811,7 +811,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'lambose',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['lp670sv'] = {
         ['name'] = '2009 Lamborghini Murcielago LP 670-4 SV',
@@ -821,7 +821,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'lp670sv',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['lp700r'] = {
         ['name'] = '2013 Lamborghini Aventador LP700-4 Roadster',
@@ -831,7 +831,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'lp700r',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['svj63'] = {
         ['name'] = 'Lamborghini Aventador SVJ',
@@ -841,7 +841,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'svj63',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['urus'] = {
         ['name'] = 'Lamborghini Urus',
@@ -851,7 +851,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'urus',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['veneno'] = {
         ['name'] = '2013 Lamborghini Veneno LP750-4',
@@ -861,7 +861,7 @@
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
         ['hash'] = 'veneno',
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
 	-- LEXUS
     ['gs350'] = {
@@ -872,7 +872,7 @@
         ['category'] = 'lexus',
         ['categoryLabel'] = 'Lexus',
         ['hash'] = `gs350`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['is350mod'] = {
         ['name'] = '2014 Lexus IS 350',
@@ -882,7 +882,7 @@
         ['category'] = 'lexus',
         ['categoryLabel'] = 'Lexus',
         ['hash'] = `is350mod`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['rcf'] = {
         ['name'] = '2015 Lexus RCF',
@@ -892,7 +892,7 @@
         ['category'] = 'lexus',
         ['categoryLabel'] = 'Lexus',
         ['hash'] = `rcf`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- LANDROVER
     ['lrrr'] = {
@@ -903,7 +903,7 @@
         ['category'] = 'landrover',
         ['categoryLabel'] = 'Land Rover',
         ['hash'] = `lrrr`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- LOTUS
     ['esprit02'] = {
@@ -914,7 +914,7 @@
         ['category'] = 'lotus',
         ['categoryLabel'] = 'Lotus',
         ['hash'] = `esprit02`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- MASERATI
     ['levante'] = {
@@ -925,7 +925,7 @@
         ['category'] = 'maserati',
         ['categoryLabel'] = 'Maserati',
         ['hash'] = `levante`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- MAZDA
     ['84rx7k'] = {
@@ -936,7 +936,7 @@
         ['category'] = 'mazda',
         ['categoryLabel'] = 'Mazda',
         ['hash'] = `84rx7k`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['dragfd'] = {
         ['name'] = '2002 Mazda RX-7 FD Drag',
@@ -946,7 +946,7 @@
         ['category'] = 'mazda',
         ['categoryLabel'] = 'Mazda',
         ['hash'] = `dragfd`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['fc3s'] = {
         ['name'] = 'Mazda RX7 FC3S',
@@ -956,7 +956,7 @@
         ['category'] = 'mazda',
         ['categoryLabel'] = 'Mazda',
         ['hash'] = `fc3s`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['majfd'] = {
         ['name'] = 'Mazda RX-7 FD',
@@ -966,7 +966,7 @@
         ['category'] = 'mazda',
         ['categoryLabel'] = 'Mazda',
         ['hash'] = `majfd`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['miata3'] = {
         ['name'] = '1989 Mazda Miata NA',
@@ -976,7 +976,7 @@
         ['category'] = 'mazda',
         ['categoryLabel'] = 'Mazda',
         ['hash'] = `miata3`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['na6'] = {
         ['name'] = 'Mazda MX-5 Miata (NA6C)',
@@ -986,7 +986,7 @@
         ['category'] = 'mazda',
         ['categoryLabel'] = 'Mazda',
         ['hash'] = `na6`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- MCLAREN
     ['650s'] = {
@@ -997,7 +997,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `650s`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['675lt'] = {
         ['name'] = '2016 McLaren 675LT Coupe',
@@ -1007,7 +1007,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `675lt`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['720s'] = {
         ['name'] = '2017 McLaren 720S',
@@ -1017,7 +1017,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `720s`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['gtr96'] = {
         ['name'] = '1996 McLaren F1 GTR',
@@ -1027,7 +1027,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `gtr96`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['mcst'] = {
         ['name'] = '2020 McLaren Speedtail',
@@ -1037,7 +1037,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `mcst`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['mp412c'] = {
         ['name'] = 'McLaren MP4-12C',
@@ -1047,7 +1047,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `mp412c`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['senna'] = {
         ['name'] = '2019 McLaren Senna',
@@ -1057,7 +1057,7 @@
         ['category'] = 'mclaren',
         ['categoryLabel'] = 'MCLAREN',
         ['hash'] = `senna`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- MERCEDES
     ['amggtrr20'] = {
@@ -1068,7 +1068,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'amggtrr20',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['c6320'] = {
         ['name'] = '2020 Mercedes-AMG C63s',
@@ -1078,7 +1078,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'c6320',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['G65'] = {
         ['name'] = '2013 Mercedes-Benz G65 AMG',
@@ -1088,7 +1088,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'G65',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['e400'] = {
         ['name'] = '2019 Mercedes-Benz E400 Coupe 4matic (C238)',
@@ -1098,7 +1098,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'e400',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['gl63'] = {
         ['name'] = 'Mercedes-Benz GL63 AMG',
@@ -1108,7 +1108,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'gl63',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['mbc63'] = {
         ['name'] = '2012 Mercedes-Benz C63 AMG Coupe Black Series',
@@ -1118,7 +1118,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'mbc63',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['s500w222'] = {
         ['name'] = '2014 Mercedes-Benz S500 W222',
@@ -1128,7 +1128,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 's500w222',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['sl500'] = {
         ['name'] = '1995 Mercedes-Benz SL500',
@@ -1138,7 +1138,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'sl500',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['v250'] = {
         ['name'] = 'Mercedes-Benz V-class 250 Bluetec LWB',
@@ -1148,7 +1148,7 @@
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
         ['hash'] = 'v250',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- MITSUBISHI
     ['cp9a'] = {
@@ -1159,7 +1159,7 @@
         ['category'] = 'mitsubishi',
         ['categoryLabel'] = 'Mitsubishi',
         ['hash'] = 'cp9a',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['fto'] = {
         ['name'] = 'Mitsubishi FTO GP Version-R',
@@ -1169,7 +1169,7 @@
         ['category'] = 'mitsubishi',
         ['categoryLabel'] = 'Mitsubishi',
         ['hash'] = 'fto',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- NISSAN
     ['180sx'] = {
@@ -1180,7 +1180,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `180sx`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['gtr'] = {
         ['name'] = '2017 Nissan GTR',
@@ -1190,7 +1190,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `gtr`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['gtrc'] = {
         ['name'] = '2017 R35 Nissan GTR Convertible',
@@ -1200,7 +1200,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `gtrc`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['maj350'] = {
         ['name'] = 'Nissan Fairlady Z Z33',
@@ -1210,7 +1210,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `maj350`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['nis15'] = {
         ['name'] = 'Nissan Silvia S15 Spec-R',
@@ -1220,7 +1220,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `nis15`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['nissantitan17'] = {
         ['name'] = '2017 Nissan Titan Warrior',
@@ -1230,7 +1230,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `nissantitan17`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['ns350'] = {
         ['name'] = 'Nissan 350z Stardast',
@@ -1240,7 +1240,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `ns350`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['nzp'] = {
         ['name'] = 'Nissan 370z "Pandem"',
@@ -1250,7 +1250,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `nzp`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['s14'] = {
         ['name'] = '1998 Nissan Silvia K',
@@ -1260,7 +1260,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `s14`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['Safari97'] = {
         ['name'] = '1997 Nissan Patrol Super Safari Y60',
@@ -1270,7 +1270,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `Safari97`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['skyline'] = {
         ['name'] = 'Nissan Skyline GT-R (BNR34)',
@@ -1280,7 +1280,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `skyline`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['z32'] = {
         ['name'] = 'Nissan 300ZX Z32',
@@ -1290,7 +1290,7 @@
         ['category'] = 'nissan',
         ['categoryLabel'] = 'Nissan',
         ['hash'] = `z32`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- PORSCHE
     ['maj935'] = {
@@ -1301,7 +1301,7 @@
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `maj935`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['pcs18'] = {
         ['name'] = '2018 Porsche Cayenne S',
@@ -1311,7 +1311,7 @@
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `pcs18`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['718caymans'] = {
         ['name'] = 'Porsche 718 Cayman S',
@@ -1321,7 +1321,7 @@
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `718caymans`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['cgt'] = {
         ['name'] = '2003 Porsche Carrera GT (980)',
@@ -1331,7 +1331,7 @@
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `cgt`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['pm19'] = {
         ['name'] = '2019 Porsche Macan Turbo',
@@ -1341,7 +1341,7 @@
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `pm19`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     ['taycan'] = {
         ['name'] = '2020 Porsche Taycan Turbo S',
@@ -1351,7 +1351,7 @@
         ['category'] = 'porsche',
         ['categoryLabel'] = 'Porsche',
         ['hash'] = `taycan`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     }
     -- RANGEROVER
     ['rrevoque'] = {
@@ -1362,7 +1362,7 @@
         ['category'] = 'rangerover',
         ['categoryLabel'] = 'Range Rover',
         ['hash'] = `rrevoque`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['rrst'] = {
         ['name'] = 'Range Rover Vogue Startech',
@@ -1372,7 +1372,7 @@
         ['category'] = 'rangerover',
         ['categoryLabel'] = 'Range Rover',
         ['hash'] = `rrst`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['rsvr16'] = {
         ['name'] = '2016 Range Rover Sport SVR',
@@ -1382,7 +1382,7 @@
         ['category'] = 'rangerover',
         ['categoryLabel'] = 'Range Rover',
         ['hash'] = `rsvr16`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- ROLLSROYCE
     ['dawnonyx'] = {
@@ -1393,7 +1393,7 @@
         ['category'] = 'rollsroyce',
         ['categoryLabel'] = 'Rolls Royce',
         ['hash'] = `dawnonyx`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     
     ['wraith'] = {
@@ -1404,7 +1404,7 @@
         ['category'] = 'rollsroyce',
         ['categoryLabel'] = 'Rolls Royce',
         ['hash'] = `wraith`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     
     ['rculi'] = {
@@ -1415,7 +1415,7 @@
         ['category'] = 'rollsroyce',
         ['categoryLabel'] = 'Rolls Royce',
         ['hash'] = `rculi`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     
     ['rrphantom'] = {
@@ -1426,7 +1426,7 @@
         ['category'] = 'rollsroyce',
         ['categoryLabel'] = 'Rolls Royce',
         ['hash'] = `rrphantom`,
-        ['shop'] = 'luxury'
+        ['shop'] = 'luxury',
     },
     -- SUBARU
     ['subisti08'] = {
@@ -1437,7 +1437,7 @@
         ['category'] = 'subaru',
         ['categoryLabel'] = 'Subaru',
         ['hash'] = 'subisti08',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['subwrx'] = {
         ['name'] = '2004 Subaru Impreza WRX STI',
@@ -1447,7 +1447,7 @@
         ['category'] = 'subaru',
         ['categoryLabel'] = 'Subaru',
         ['hash'] = 'subwrx',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['svx'] = {
         ['name'] = '1996 Subaru Alcyone SVX',
@@ -1457,7 +1457,7 @@
         ['category'] = 'subaru',
         ['categoryLabel'] = 'Subaru',
         ['hash'] = 'svx',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- SUZUKI
     ['gsxr19'] = {
@@ -1468,7 +1468,7 @@
         ['category'] = 'suzuki',
         ['categoryLabel'] = 'Suzuki',
         ['hash'] = 'gsxr19',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['katana'] = {
         ['name'] = '2019 Suzuki Katana',
@@ -1478,7 +1478,7 @@
         ['category'] = 'suzuki',
         ['categoryLabel'] = 'Suzuki',
         ['hash'] = 'katana',
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },    
     -- TESLA
     ['tr22'] = {
@@ -1489,7 +1489,7 @@
         ['category'] = 'tesla',
         ['categoryLabel'] = 'Tesla',
         ['hash'] = `tr22`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['p90d'] = {
         ['name'] = 'Tesla Model X P90D',
@@ -1499,7 +1499,7 @@
         ['category'] = 'tesla',
         ['categoryLabel'] = 'Tesla',
         ['hash'] = `p90d`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['models'] = {
         ['name'] = '2016 Tesla Model S P90D',
@@ -1509,7 +1509,7 @@
         ['category'] = 'tesla',
         ['categoryLabel'] = 'Tesla',
         ['hash'] = `models`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['tmodel'] = {
         ['name'] = '2018 Tesla Model 3',
@@ -1519,7 +1519,7 @@
         ['category'] = 'tesla',
         ['categoryLabel'] = 'Tesla',
         ['hash'] = `tmodel`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['teslax'] = {
         ['name'] = '2016 Tesla Model X P90D',
@@ -1529,7 +1529,7 @@
         ['category'] = 'tesla',
         ['categoryLabel'] = 'Tesla',
         ['hash'] = `teslax`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['teslapd'] = {
         ['name'] = '2017 Tesla Model S Prior design',
@@ -1539,7 +1539,7 @@
         ['category'] = 'tesla',
         ['categoryLabel'] = 'Tesla',
         ['hash'] = `teslapd`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- TOYOTA
     ['cam8tun'] = {
@@ -1550,7 +1550,7 @@
         ['category'] = 'toyota',
         ['categoryLabel'] = 'Toyota',
         ['hash'] = `cam8tun`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['vxr'] = {
         ['name'] = '2016 Toyota Land Cruiser VXR',
@@ -1560,7 +1560,7 @@
         ['category'] = 'toyota',
         ['categoryLabel'] = 'Toyota',
         ['hash'] = `vxr`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['toysupmk4'] = {
         ['name'] = '1998 Toyota Supra Turbo (A80)',
@@ -1570,7 +1570,7 @@
         ['category'] = 'toyota',
         ['categoryLabel'] = 'Toyota',
         ['hash'] = `toysupmk4`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     ['mk2100'] = {
         ['name'] = 'Toyota Mark II JZX100',
@@ -1580,7 +1580,7 @@
         ['category'] = 'toyota',
         ['categoryLabel'] = 'Toyota',
         ['hash'] = `mk2100`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },    
     -- VOLKSWAGEN
     ['golfgti7'] = {
@@ -1591,7 +1591,7 @@
         ['category'] = 'volkswagen',
         ['categoryLabel'] = 'Volkswagen',
         ['hash'] = `golfgti7`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- VOLVO
     ['xc90'] = {
@@ -1602,6 +1602,26 @@
         ['category'] = 'volvo',
         ['categoryLabel'] = 'Volvo',
         ['hash'] = `xc90`,
-        ['shop'] = 'pdm'
+        ['shop'] = 'pdm',
     },
     -- #END OF PLOKS FOR QB##--
+    ['Urus_Stretch_6'] = {
+        ['name'] = 'Urus Strech',
+        ['brand'] = 'Lambo',
+        ['model'] = 'Urus_Stretch_6',
+        ['price'] = 5967400,
+        ['category'] = 'custom',
+        ['categoryLabel'] = 'Custom',
+        ['hash'] = `Urus_Stretch_6`,
+        ['shop'] = 'luxury',
+    },
+    ['hover_bike'] = {
+        ['name'] = 'Hover Bike',
+        ['brand'] = 'Hover',
+        ['model'] = 'hover_bike',
+        ['price'] = 60000000,
+        ['category'] = 'custom',
+        ['categoryLabel'] = 'Custom',
+        ['hash'] = `hover_bike`,
+        ['shop'] = 'luxury',
+    },
