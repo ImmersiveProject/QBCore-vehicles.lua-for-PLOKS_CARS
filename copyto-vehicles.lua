@@ -38,7 +38,7 @@
         ['price'] = 35000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = '80B4',
+        ['hash'] = `80B4`,
         ['shop'] = 'pdm',
     },
     ['audquattros'] = {
@@ -48,7 +48,7 @@
         ['price'] = 65000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'audquattros',
+        ['hash'] = `audquattros`,
         ['shop'] = 'pdm',
     },
     ['aaq4'] = {
@@ -58,7 +58,7 @@
         ['price'] = 15000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'aaq4',
+        ['hash'] = `aaq4`,
         ['shop'] = 'pdm',
     },
     ['q820'] = {
@@ -68,7 +68,7 @@
         ['price'] = 57500,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'q820',
+        ['hash'] = `q820`,
         ['shop'] = 'pdm',
     },
     ['r8ppi'] = {
@@ -78,7 +78,7 @@
         ['price'] = 45000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'r8ppi',
+        ['hash'] = `r8ppi`,
         ['shop'] = 'pdm',
     },
     ['r820'] = {
@@ -88,7 +88,7 @@
         ['price'] = 90000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'r820',
+        ['hash'] = `r820`,
         ['shop'] = 'pdm',
     },
     ['rs6'] = {
@@ -98,7 +98,7 @@
         ['price'] = 75005,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'rs6',
+        ['hash'] = `rs6`,
         ['shop'] = 'pdm',
     },
     ['rs72020'] = {
@@ -108,7 +108,7 @@
         ['price'] = 85500,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'rs72020',
+        ['hash'] = `rs72020`,
         ['shop'] = 'pdm',
     },
     ['s8d2'] = {
@@ -118,7 +118,7 @@
         ['price'] = 15000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 's8d2',
+        ['hash'] = `s8d2`,
         ['shop'] = 'pdm',
     },
     ['sq72016'] = {
@@ -128,7 +128,7 @@
         ['price'] = 65000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'sq72016',
+        ['hash'] = `sq72016`,
         ['shop'] = 'pdm',
     },
     ['ttrs'] = {
@@ -138,7 +138,7 @@
         ['price'] = 15000,
         ['category'] = 'audi',
         ['categoryLabel'] = 'Audi',
-        ['hash'] = 'ttrs',
+        ['hash'] = `ttrs`,
         ['shop'] = 'pdm',
     },
     -- Bentley
@@ -149,7 +149,7 @@
         ['price'] = 150,
         ['category'] = 'bentley',
         ['categoryLabel'] = 'Bentley',
-        ['hash'] = 'bbentayga',
+        ['hash'] = `bbentayga`,
         ['shop'] = 'pdm',
     },
     ['cgts'] = {
@@ -159,7 +159,7 @@
         ['price'] = 150,
         ['category'] = 'bentley',
         ['categoryLabel'] = 'Bentley',
-        ['hash'] = 'cgts',
+        ['hash'] = `cgts`,
         ['shop'] = 'pdm',
     },
     -- BMW
@@ -170,7 +170,7 @@
         ['price'] = 45980,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = '760li04',
+        ['hash'] = `760li04`,
         ['shop'] = 'pdm',
     },
     ['e34'] = {
@@ -180,7 +180,7 @@
         ['price'] = 31500,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'e34',
+        ['hash'] = `e34`,
         ['shop'] = 'pdm',
     },
     ['m2'] = {
@@ -190,7 +190,7 @@
         ['price'] = 55000,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'm2',
+        ['hash'] = `m2`,
         ['shop'] = 'pdm',
     },
     ['m3e36'] = {
@@ -200,7 +200,7 @@
         ['price'] = 35000,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'm3e36',
+        ['hash'] = `m3e36`,
         ['shop'] = 'pdm',
     },
     ['m3e92'] = {
@@ -210,7 +210,7 @@
         ['price'] = 3500,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'm3e92',
+        ['hash'] = `m3e92`,
         ['shop'] = 'pdm',
     },
     ['m3f80'] = {
@@ -220,7 +220,7 @@
         ['price'] = 42000,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'm3f80',
+        ['hash'] = `m3f80`,
         ['shop'] = 'pdm',
     },
     ['m4f82'] = {
@@ -230,7 +230,7 @@
         ['price'] = 58000,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'm4f82',
+        ['hash'] = `m4f82`,
         ['shop'] = 'pdm',
     },
     ['m6f13'] = {
@@ -240,7 +240,7 @@
         ['price'] = 87000,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'm6f13',
+        ['hash'] = `m6f13`,
         ['shop'] = 'pdm',
     },
     ['z419'] = {
@@ -250,7 +250,7 @@
         ['price'] = 56600,
         ['category'] = 'bmw',
         ['categoryLabel'] = 'BMW',
-        ['hash'] = 'z419',
+        ['hash'] = `z419`,
         ['shop'] = 'pdm',
     },
     -- Bugatti
@@ -261,7 +261,7 @@
         ['price'] = 566000,
         ['category'] = 'bugatti',
         ['categoryLabel'] = 'Bugatti',
-        ['hash'] = 'z4bolide19',
+        ['hash'] = `z4bolide19`,
         ['shop'] = 'luxury',
     },
     -- Cadillac
@@ -272,7 +272,7 @@
         ['price'] = 65000,
         ['category'] = 'cadillac',
         ['categoryLabel'] = 'Cadillac',
-        ['hash'] = 'cats',
+        ['hash'] = `cats`,
         ['shop'] = 'pdm',
     },
     ['cesc21'] = {
@@ -282,7 +282,7 @@
         ['price'] = 155000,
         ['category'] = 'cadillac',
         ['categoryLabel'] = 'Cadillac',
-        ['hash'] = 'cesc21',
+        ['hash'] = `cesc21`,
         ['shop'] = 'pdm',
     },
     -- Chevrolet
@@ -293,7 +293,7 @@
         ['price'] = 9500,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = '09tahoe',
+        ['hash'] = `09tahoe`,
         ['shop'] = 'pdm',
     },
     ['15tahoe'] = {
@@ -303,7 +303,7 @@
         ['price'] = 25000,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = '15tahoe',
+        ['hash'] = `15tahoe`,
         ['shop'] = 'pdm',
     },
     ['2020ss'] = {
@@ -313,7 +313,7 @@
         ['price'] = 95870,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = '2020ss',
+        ['hash'] = `2020ss`,
         ['shop'] = 'pdm',
     },
     ['camrs17'] = {
@@ -323,7 +323,7 @@
         ['price'] = 75000,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = 'camrs17',
+        ['hash'] = `camrs17`,
         ['shop'] = 'pdm',
     },
     ['tahoe21'] = {
@@ -333,7 +333,7 @@
         ['price'] = 155700,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = 'tahoe21',
+        ['hash'] = `tahoe21`,
         ['shop'] = 'pdm',
     },
     ['corvettec5z06'] = {
@@ -343,7 +343,7 @@
         ['price'] = 1000000,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = 'corvettec5z06',
+        ['hash'] = `corvettec5z06`,
         ['shop'] = 'pdm',
     },
     ['czr1'] = {
@@ -353,7 +353,7 @@
         ['price'] = 1000000,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = 'czr1',
+        ['hash'] = `czr1`,
         ['shop'] = 'pdm',
     },
     ['c7'] = {
@@ -363,7 +363,7 @@
         ['price'] = 1000000,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = 'c7',
+        ['hash'] = `c7`,
         ['shop'] = 'pdm',
     },
     ['stingray'] = {
@@ -373,7 +373,7 @@
         ['price'] = 1000000,
         ['category'] = 'chevrolet',
         ['categoryLabel'] = 'Chevrolet',
-        ['hash'] = 'stingray',
+        ['hash'] = `stingray`,
         ['shop'] = 'pdm',
     },
     ['16charger'] = {
@@ -383,7 +383,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = '16charger',
+        ['hash'] = `16charger`,
         ['shop'] = 'pdm',
     },    
     ['99viper'] = {
@@ -393,7 +393,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = '99viper',
+        ['hash'] = `99viper`,
         ['shop'] = 'pdm',
     },
     ['chr20'] = {
@@ -403,7 +403,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = 'chr20',
+        ['hash'] = `chr20`,
         ['shop'] = 'pdm',
     },    
     ['demon'] = {
@@ -413,7 +413,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = 'demon',
+        ['hash'] = `demon`,
         ['shop'] = 'pdm',
     },    
     ['raid'] = {
@@ -423,7 +423,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = 'raid',
+        ['hash'] = `raid`,
         ['shop'] = 'pdm',
     },    
     ['ram2500'] = {
@@ -433,7 +433,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = 'ram2500',
+        ['hash'] = `ram2500`,
         ['shop'] = 'pdm',
     },
     ['srt4'] = {
@@ -443,7 +443,7 @@
         ['price'] = 75000,
         ['category'] = 'dodge',
         ['categoryLabel'] = 'Dodge',
-        ['hash'] = 'srt4',
+        ['hash'] = `srt4`,
         ['shop'] = 'pdm',
     },
     ['trx'] = {
@@ -474,7 +474,7 @@
         ['price'] = 331000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = '488',
+        ['hash'] = `488`,
         ['shop'] = 'luxury',
     },
     ['f430s'] = {
@@ -484,7 +484,7 @@
         ['price'] = 479900,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'f430s',
+        ['hash'] = `f430s`,
         ['shop'] = 'luxury',
     },
     ['f812'] = {
@@ -494,7 +494,7 @@
         ['price'] = 433765,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'f812',
+        ['hash'] = `f812`,
         ['shop'] = 'luxury',
     },
     ['fct'] = {
@@ -504,7 +504,7 @@
         ['price'] = 222170,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'fct',
+        ['hash'] = `fct`,
         ['shop'] = 'luxury',
     },
     ['fxxk'] = {
@@ -514,7 +514,7 @@
         ['price'] = 2656000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'fxxk',
+        ['hash'] = `fxxk`,
         ['shop'] = 'luxury',
     },
     ['laferrari'] = {
@@ -524,7 +524,7 @@
         ['price'] = 5500000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'laferrari',
+        ['hash'] = `laferrari`,
         ['shop'] = 'luxury',
     },    
     ['mig'] = {
@@ -534,7 +534,7 @@
         ['price'] = 3133937,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'mig',
+        ['hash'] = `mig`,
         ['shop'] = 'luxury',
     },
     ['yFe458i1'] = {
@@ -544,7 +544,7 @@
         ['price'] = 325000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'yFe458i1',
+        ['hash'] = `yFe458i1`,
         ['shop'] = 'luxury',
     },
     ['yFe458i2'] = {
@@ -554,7 +554,7 @@
         ['price'] = 401000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'yFe458i2',
+        ['hash'] = `yFe458i2`,
         ['shop'] = 'luxury',
     },
     ['yFe458s1'] = {
@@ -564,7 +564,7 @@
         ['price'] = 453420,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'yFe458s1',
+        ['hash'] = `yFe458s1`,
         ['shop'] = 'luxury',
     },
     ['yFe458s2'] = {
@@ -574,7 +574,7 @@
         ['price'] = 458420,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'yFe458s2',
+        ['hash'] = `yFe458s2`,
         ['shop'] = 'luxury',
     },
     ['yFeF12A'] = {
@@ -584,7 +584,7 @@
         ['price'] = 2500000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'yFeF12A',
+        ['hash'] = `yFeF12A`,
         ['shop'] = 'luxury',
     },
     ['yFeF12T'] = {
@@ -594,7 +594,7 @@
         ['price'] = 4200000,
         ['category'] = 'ferrari',
         ['categoryLabel'] = 'Ferrari',
-        ['hash'] = 'yFeF12T',
+        ['hash'] = `yFeF12T`,
         ['shop'] = 'luxury',
     },
     -- Ford
@@ -605,7 +605,7 @@
         ['price'] = 21300,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'f15078',
+        ['hash'] = `f15078`,
         ['shop'] = 'pdm',
     },
     ['f150'] = {
@@ -615,7 +615,7 @@
         ['price'] = 17762,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'f150',
+        ['hash'] = `f150`,
         ['shop'] = 'pdm',
     },
     ['fgt'] = {
@@ -625,7 +625,7 @@
         ['price'] = 26143,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'fgt',
+        ['hash'] = `fgt`,
         ['shop'] = 'pdm',
     },
     ['gt17'] = {
@@ -635,7 +635,7 @@
         ['price'] = 453750,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'gt17',
+        ['hash'] = `gt17`,
         ['shop'] = 'pdm',
     },
     ['mustang50th'] = {
@@ -645,7 +645,7 @@
         ['price'] = 82500,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'mustang50th',
+        ['hash'] = `mustang50th`,
         ['shop'] = 'pdm',
     },
     ['raptor2017'] = {
@@ -655,7 +655,7 @@
         ['price'] = 23995,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'raptor2017',
+        ['hash'] = `raptor2017`,
         ['shop'] = 'pdm',
     },
     ['wildtrak'] = {
@@ -665,7 +665,7 @@
         ['price'] = 61994,
         ['category'] = 'ford',
         ['categoryLabel'] = 'Ford',
-        ['hash'] = 'wildtrak',
+        ['hash'] = `wildtrak`,
         ['shop'] = 'pdm',
     },
     -- Honda   
@@ -676,7 +676,7 @@
         ['price'] = 27287,
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
-        ['hash'] = 'honcrx91',
+        ['hash'] = `honcrx91`,
         ['shop'] = 'pdm',
     },
     ['na1'] = {
@@ -686,7 +686,7 @@
         ['price'] = 69000,
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
-        ['hash'] = 'na1',
+        ['hash'] = `na1`,
         ['shop'] = 'pdm',
     },
     ['ap2'] = {
@@ -696,7 +696,7 @@
         ['price'] = 43000,
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
-        ['hash'] = 'ap2',
+        ['hash'] = `ap2`,
         ['shop'] = 'pdm',
     },
     ['dragekcivick'] = {
@@ -706,7 +706,7 @@
         ['price'] = 15000,
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
-        ['hash'] = 'dragekcivick',
+        ['hash'] = `dragekcivick`,
         ['shop'] = 'pdm',
     },
     ['fk8'] = {
@@ -716,7 +716,7 @@
         ['price'] = 34890,
         ['category'] = 'honda',
         ['categoryLabel'] = 'Honda',
-        ['hash'] = 'fk8',
+        ['hash'] = `fk8`,
         ['shop'] = 'pdm',
     },
     -- Jaguar 
@@ -727,7 +727,7 @@
         ['price'] = 34890,
         ['category'] = 'jaguar',
         ['categoryLabel'] = 'Jaguar',
-        ['hash'] = 'fpacehm',
+        ['hash'] = `fpacehm`,
         ['shop'] = 'luxury',
     },
     -- Jeep
@@ -738,7 +738,7 @@
         ['price'] = 35650,
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
-        ['hash'] = 'jeep2012',
+        ['hash'] = `jeep2012`,
         ['shop'] = 'pdm',
     },
     ['jeepreneg'] = {
@@ -748,7 +748,7 @@
         ['price'] = 25607,
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
-        ['hash'] = 'jeepreneg',
+        ['hash'] = `jeepreneg`,
         ['shop'] = 'pdm',
     },
     ['srt8'] = {
@@ -758,7 +758,7 @@
         ['price'] = 39875,
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
-        ['hash'] = 'srt8',
+        ['hash'] = `srt8`,
         ['shop'] = 'pdm',
     },
     ['trhawk'] = {
@@ -768,7 +768,7 @@
         ['price'] = 86000,
         ['category'] = 'jeep',
         ['categoryLabel'] = 'Jeep',
-        ['hash'] = 'trhawk',
+        ['hash'] = `trhawk`,
         ['shop'] = 'pdm',
     },
     -- Koenigsegg
@@ -779,7 +779,7 @@
         ['price'] = 3000000,
         ['category'] = 'koenigsegg',
         ['categoryLabel'] = 'Koenigsegg',
-        ['hash'] = 'agerars',
+        ['hash'] = `agerars`,
         ['shop'] = 'luxury',
     },
     ['regera'] = {
@@ -789,7 +789,7 @@
         ['price'] = 2100000,
         ['category'] = 'koenigsegg',
         ['categoryLabel'] = 'Koenigsegg',
-        ['hash'] = 'regera',
+        ['hash'] = `regera`,
         ['shop'] = 'luxury',
     },
 	-- LAMBORGHINI
@@ -800,7 +800,7 @@
         ['price'] = 540000,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'huracanst',
+        ['hash'] = `huracanst`,
         ['shop'] = 'luxury',
     },
     ['lambose'] = {
@@ -810,7 +810,7 @@
         ['price'] = 2750000,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'lambose',
+        ['hash'] = `lambose`,
         ['shop'] = 'luxury',
     },
     ['lp670sv'] = {
@@ -820,7 +820,7 @@
         ['price'] = 500000,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'lp670sv',
+        ['hash'] = `lp670sv`,
         ['shop'] = 'luxury',
     },
     ['lp700r'] = {
@@ -830,7 +830,7 @@
         ['price'] = 450000,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'lp700r',
+        ['hash'] = `lp700r`,
         ['shop'] = 'luxury',
     },
     ['svj63'] = {
@@ -840,7 +840,7 @@
         ['price'] = 577000,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'svj63',
+        ['hash'] = `svj63`,
         ['shop'] = 'luxury',
     },
     ['urus'] = {
@@ -850,7 +850,7 @@
         ['price'] = 270311,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'urus',
+        ['hash'] = `urus`,
         ['shop'] = 'luxury',
     },
     ['veneno'] = {
@@ -860,7 +860,7 @@
         ['price'] = 3500000,
         ['category'] = 'lamborghini',
         ['categoryLabel'] = 'Lamborghini',
-        ['hash'] = 'veneno',
+        ['hash'] = `veneno`,
         ['shop'] = 'luxury',
     },
 	-- LEXUS
@@ -1067,7 +1067,7 @@
         ['price'] = 191745,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'amggtrr20',
+        ['hash'] = `amggtrr20`,
         ['shop'] = 'pdm',
     },
     ['c6320'] = {
@@ -1077,7 +1077,7 @@
         ['price'] = 76695,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'c6320',
+        ['hash'] = `c6320`,
         ['shop'] = 'pdm',
     },
     ['G65'] = {
@@ -1087,7 +1087,7 @@
         ['price'] = 194500,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'G65',
+        ['hash'] = `G65`,
         ['shop'] = 'pdm',
     },
     ['e400'] = {
@@ -1097,7 +1097,7 @@
         ['price'] = 43762,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'e400',
+        ['hash'] = `e400`,
         ['shop'] = 'pdm',
     },
     ['gl63'] = {
@@ -1107,7 +1107,7 @@
         ['price'] = 149115,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'gl63',
+        ['hash'] = `gl63`,
         ['shop'] = 'pdm',
     },
     ['mbc63'] = {
@@ -1117,7 +1117,7 @@
         ['price'] = 182000,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'mbc63',
+        ['hash'] = `mbc63`,
         ['shop'] = 'pdm',
     },
     ['s500w222'] = {
@@ -1127,7 +1127,7 @@
         ['price'] = 94000,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 's500w222',
+        ['hash'] = `s500w222`,
         ['shop'] = 'pdm',
     },
     ['sl500'] = {
@@ -1137,7 +1137,7 @@
         ['price'] = 37000,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'sl500',
+        ['hash'] = `sl500`,
         ['shop'] = 'pdm',
     },
     ['v250'] = {
@@ -1147,7 +1147,7 @@
         ['price'] = 88110,
         ['category'] = 'mercedes',
         ['categoryLabel'] = 'Mercedes',
-        ['hash'] = 'v250',
+        ['hash'] = `v250`,
         ['shop'] = 'pdm',
     },
     -- MITSUBISHI
@@ -1158,7 +1158,7 @@
         ['price'] = 19000,
         ['category'] = 'mitsubishi',
         ['categoryLabel'] = 'Mitsubishi',
-        ['hash'] = 'cp9a',
+        ['hash'] = `cp9a`,
         ['shop'] = 'pdm',
     },
     ['fto'] = {
@@ -1168,7 +1168,7 @@
         ['price'] = 11118,
         ['category'] = 'mitsubishi',
         ['categoryLabel'] = 'Mitsubishi',
-        ['hash'] = 'fto',
+        ['hash'] = `fto`,
         ['shop'] = 'pdm',
     },
     -- NISSAN
@@ -1436,7 +1436,7 @@
         ['price'] = 44995,
         ['category'] = 'subaru',
         ['categoryLabel'] = 'Subaru',
-        ['hash'] = 'subisti08',
+        ['hash'] = `subisti08`,
         ['shop'] = 'pdm',
     },
     ['subwrx'] = {
@@ -1446,7 +1446,7 @@
         ['price'] = 31120,
         ['category'] = 'subaru',
         ['categoryLabel'] = 'Subaru',
-        ['hash'] = 'subwrx',
+        ['hash'] = `subwrx`,
         ['shop'] = 'pdm',
     },
     ['svx'] = {
@@ -1456,7 +1456,7 @@
         ['price'] = 11500,
         ['category'] = 'subaru',
         ['categoryLabel'] = 'Subaru',
-        ['hash'] = 'svx',
+        ['hash'] = `svx`,
         ['shop'] = 'pdm',
     },
     -- SUZUKI
@@ -1467,7 +1467,7 @@
         ['price'] = 17499,
         ['category'] = 'suzuki',
         ['categoryLabel'] = 'Suzuki',
-        ['hash'] = 'gsxr19',
+        ['hash'] = `gsxr19`,
         ['shop'] = 'pdm',
     },
     ['katana'] = {
@@ -1477,7 +1477,7 @@
         ['price'] = 13500,
         ['category'] = 'suzuki',
         ['categoryLabel'] = 'Suzuki',
-        ['hash'] = 'katana',
+        ['hash'] = `katana`,
         ['shop'] = 'pdm',
     },    
     -- TESLA
